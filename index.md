@@ -1,4 +1,4 @@
-## Welcome to Github pages
+# Dheeraj Namargomala's First CS193 Homework
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +30,10 @@ _I would like this to be italicized_
 
 ```markdown
 
-My bulleted list will go in this second markdown section
+My Favorite things about CS193
+- The class is smaller than CS180
+- It is taught by other undergraduate students
+- I get to learn terminal
 
 ```
 
